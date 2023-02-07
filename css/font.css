@@ -1,75 +1,75 @@
 @font-face {
-  font-family: "SourceSansPro";
-  src: url(../font/SourceSansPro-ExtraLight.ttf);
+  font-family: "NunitoSans";
+  src: url(../font/NunitoSans-ExtraLight.ttf);
   font-style: normal;
   font-weight: 200;
 }
 @font-face {
-  font-family: "SourceSansPro";
-  src: url(../font/SourceSansPro-ExtraLightItalic.ttf);
+  font-family: "NunitoSans";
+  src: url(../font/NunitoSans-ExtraLightItalic.ttf);
   font-style: italic;
   font-weight: 200;
 }
 @font-face {
-  font-family: "SourceSansPro";
-  src: url(../font/SourceSansPro-Light.ttf);
+  font-family: "NunitoSans";
+  src: url(../font/NunitoSans-Light.ttf);
   font-style: normal;
   font-weight: 300;
 }
 @font-face {
-  font-family: "SourceSansPro";
-  src: url(../font/SourceSansPro-LightItalic.ttf);
+  font-family: "NunitoSans";
+  src: url(../font/NunitoSans-LightItalic.ttf);
   font-style: italic;
   font-weight: 300;
 }
 @font-face {
-  font-family: "SourceSansPro";
-  src: url(../font/SourceSansPro-Regular.ttf);
+  font-family: "NunitoSans";
+  src: url(../font/NunitoSans-Regular.ttf);
   font-style: normal;
   font-weight: 400;
 }
 @font-face {
-  font-family: "SourceSansPro";
-  src: url(../font/SourceSansPro-Italic.ttf);
+  font-family: "NunitoSans";
+  src: url(../font/NunitoSans-Italic.ttf);
   font-style: italic;
   font-weight: 400;
 }
 @font-face {
-  font-family: "SourceSansPro";
-  src: url(../font/SourceSansPro-SemiBold.ttf);
+  font-family: "NunitoSans";
+  src: url(../font/NunitoSans-SemiBold.ttf);
   font-style: normal;
   font-weight: 600;
 }
 @font-face {
-  font-family: "SourceSansPro";
-  src: url(../font/SourceSansPro-SemiBoldItalic.ttf);
+  font-family: "NunitoSans";
+  src: url(../font/NunitoSans-SemiBoldItalic.ttf);
   font-style: italic;
   font-weight: 600;
 }
 @font-face {
-  font-family: "SourceSansPro";
-  src: url(../font/SourceSansPro-Bold.ttf);
+  font-family: "NunitoSans";
+  src: url(../font/NunitoSans-Bold.ttf);
   font-style: normal;
   font-weight: 700;
 }
 @font-face {
-  font-family: "SourceSansPro";
-  src: url(../font/SourceSansPro-BoldItalic.ttf);
+  font-family: "NunitoSans";
+  src: url(../font/NunitoSans-BoldItalic.ttf);
   font-style: italic;
   font-weight: 700;
 }
 @font-face {
-  font-family: "SourceSansPro";
-  src: url(../font/SourceSansPro-Black.ttf);
+  font-family: "NunitoSans";
+  src: url(../font/NunitoSans-Black.ttf);
   font-style: normal;
   font-weight: 900;
 }
 @font-face {
-  font-family: "SourceSansPro";
-  src: url(../font/SourceSansPro-BlackItalic.ttf);
+  font-family: "NunitoSans";
+  src: url(../font/NunitoSans-BlackItalic.ttf);
   font-style: italic;
   font-weight: 900;
 }
 body {
-  font-family: "SourceSansPro", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-family: "NunitoSans", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }

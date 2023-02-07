@@ -1,8 +1,17 @@
 .bg-image{
     background-image: url("../img/01.jpg");
     background-size: cover;
+    background-attachment: fixed;
 }
 
 .h-box-1{
-    height: 450px;
+    min-height: 80%;
+}
+
+.p-10{
+    padding: 100px;
+}
+
+.border-50{
+    border-radius: 50%;
 }
