@@ -1,5 +1,5 @@
 .bg-image{
-    background-image: url("../img/01.jpg");
+    background-image: url("../img/bg-image.jpg");
     background-size: cover;
     background-attachment: fixed;
 }
