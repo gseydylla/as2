@@ -8,10 +8,6 @@
     min-height: 80%;
 }
 
-.p-10{
-    padding: 100px;
-}
-
 .bg-pink-color{
     background: rgb(252,244,244);
     background: linear-gradient(180deg, rgb(229, 226, 226) 54%, rgb(196, 192, 192) 100%, rgba(2,0,36,1) 100%);
